@@ -7,5 +7,5 @@
   <groupId>com.simulation.springcould</groupId>
   <artifactId>springcould2</artifactId>
   <version>1.0-SNAPSHOT</version>
-
+  <packaging>pom</packaging>
 </project>
